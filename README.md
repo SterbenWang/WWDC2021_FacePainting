@@ -1,2 +1,2 @@
 # WWDC2021_FacePainting
-If you want to run the code, run it using PlayGround (you can search for it in the App Store), and make sure to run it on iPad devices with front-facing depth cameras, such as the iPad Pro 11/12.9 and iPad Air 4. For the best experience, use both the iPad Pro 11 and the Apple Pencil}
+If you want to run the code, please use PlayGround with the extracted file (you can search for it in the App Store) and make sure it runs on iPad devices with front depth cameras, such as iPad Pro 11/12.9 and iPad Air 4. For the best experience, use both iPad Pro 11 and Apple Pencil}
